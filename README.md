@@ -5,7 +5,7 @@
 --!>
 Here are some ideas to get you started:<br>
 <br>
--🔭 I’m currently working on python                        
+-🔭 I’m currently working on python<br>                        
 -🌱 I’m currently learning that<br>
 -💬 Ask me about python<br>
 
