@@ -5,10 +5,10 @@
 --!>
 Here are some ideas to get you started:
 
--🔭 I’m currently working on python
+!-🔭 I’m currently working on python
 
--🌱 I’m currently learning that
+!-🌱 I’m currently learning that
 
--💬 Ask me about python
+!-💬 Ask me about python
 
 
