@@ -1,4 +1,5 @@
-## ![nody-پس-زمینه-برای-ادیت-عکس-1677228913](https://github.com/user-attachments/assets/11c322ab-faa9-4288-a118-b26e8acf63d9)
+##![Deren py1](https://github.com/user-attachments/assets/be3af3d5-656a-46ba-8d90-e65b881a148b)
+
 
 
 <!--
